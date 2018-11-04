@@ -10,13 +10,32 @@ body{
 
 #p1,
 #p2 {
-    line-height: 1.6em;
+    line-height: 1.4em;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12pt;
+    font-size: 1.2vw;
 }
 
 #rowOne
-#rowTwo{
+#rowTwo {
     margin: 0 auto;
-    
 }
+
+img {
+    height:20%;
+    width: auto 0;
+}
+
+.navbar-collapse{
+    text-align: center;
+}
+
+@media screen and (max-width: 992px){
+    #p1,
+    #p2 {
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    img{
+        margin-bottom: 5%;
+    }
