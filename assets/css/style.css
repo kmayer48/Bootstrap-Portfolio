@@ -39,3 +39,20 @@ img {
     img{
         margin-bottom: 5%;
     }
+
+@media screen and (max-width: 576){
+    #p1,
+    #p2 {
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    img{
+        margin-bottom: 5%;
+    }
+
+    .work{
+        margin: 0;
+        width: 100%;
+    }
+}
