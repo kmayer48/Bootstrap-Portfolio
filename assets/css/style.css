@@ -31,8 +31,9 @@ body{
     text-align: center;
 }
 
-#rowOne
-#rowTwo {
+#rowOne,
+#rowTwo,
+#rowThree {
     margin: 0 auto;
 }
 
