@@ -33,7 +33,9 @@ body{
 
 #rowOne,
 #rowTwo,
-#rowThree {
+#rowThree,
+#rowFour
+ {
     margin: 0 auto;
 }
 
